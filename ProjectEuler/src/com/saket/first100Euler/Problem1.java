@@ -10,6 +10,5 @@ public class Problem1 {
 			}
 		}
 		System.out.println("The total is " + total);
-		System.out.println("The end.");
 	}
 }
