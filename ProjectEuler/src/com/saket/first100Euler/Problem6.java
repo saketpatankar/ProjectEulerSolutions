@@ -63,7 +63,5 @@ public class Problem6 {
 		
 		long stop = System.nanoTime();
 	    System.out.println("New Time: " + (stop - start) / 1000 + " microseconds");
-		
 	}
-
 }
